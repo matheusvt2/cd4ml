@@ -1,0 +1,6 @@
+flask
+numpy 
+gunicorn
+sklearn
+mlflow
+boto3
