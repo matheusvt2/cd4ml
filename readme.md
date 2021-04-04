@@ -11,10 +11,10 @@ Project architecture:
 ### Project structure
 
 ```
-├── app # Application folder, to use on application pipeline
+├── app #Application folder, to use on application pipeline
 │   ├── app.py
-│   ├── appspec.yml # CodeDeploy file
-│   ├── buildspec.yml # CodeBuild file 
+│   ├── appspec.yml #CodeDeploy file
+│   ├── buildspec.yml #CodeBuild file 
 │   ├── dockerfile
 │   ├── requirements.txt 
 │   ├── scripts
@@ -30,7 +30,7 @@ Project architecture:
 │       ├── home.html
 │       ├── layout.html
 │       └── predict.html
-├── data
+├── data #Training data
 │   └── iris.csv
 ├── experimentation.ipynb
 ├── imgs
@@ -48,7 +48,7 @@ What things you need to install the software and how to install them
 
 
 - AWS account — May be some costs, be aware!
-- 8 GB RAM / 100 GB Disk laptop.
+- 8 GB RAM / 100 GB Disk linux laptop.
 - Application and Model.
 
 ## Contributing
