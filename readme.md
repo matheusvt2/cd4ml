@@ -1,6 +1,6 @@
 # CD4ML project
 
-Project for studying a way to decouple machine learning model and app.
+Project for studying a way to decouple machine learning model from its app.
 
 ## Getting Started
 
